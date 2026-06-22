@@ -1,0 +1,13 @@
+Results:
+
+Test Loss: 0.015652557834982872
+Test MAE: 0.09432325512170792
+Accuracy of the Model: 90.56767448782921
+
+R² Score for each pollutant:
+CO(GT): 0.4628
+NMHC(GT): 0.3924
+C6H6(GT): 0.5066
+NOx(GT): 0.4188
+NO2(GT): 0.5673
+Overall R² Score: 0.4696
