@@ -1,0 +1,2 @@
+# Hybrid-CNN-LSTM-IoT-Framework-for-Air-Quality-Monitoring
+Project aims multi-pollutant air quality prediction using Air Quality UCI dataset. The system applies data preprocessing, normalization, and sliding-window sequence generation to capture temporal patterns. CNN extracts local features, while LSTM learns long-term dependencies, enabling accurate forecasting of CO, NOx, NO₂, and C₆H₆ concentrations.
